@@ -1705,8 +1705,14 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rYwHfPCbbr {
-  background-color: #fedf51;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-rYwHfPCbbr P {
   color: #767676;
+}
+.cid-rYwHfPCbbr .mbr-text,
+.cid-rYwHfPCbbr .mbr-section-btn {
+  color: #ffffff;
 }
